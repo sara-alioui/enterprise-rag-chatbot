@@ -1,0 +1,17 @@
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tar.gz
+# données locales : ne jamais publier tes documents personnels
+data/
+docs/
+chroma_db/
+ingest_state.json
+# anciens prototypes
+index.npy
+index_old.npy
+chunks.json
+chunks_old.json
+.env

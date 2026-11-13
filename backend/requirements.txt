@@ -1,0 +1,14 @@
+# Cœur RAG
+chromadb
+sentence-transformers
+pymupdf
+python-docx
+# API
+fastapi
+uvicorn[standard]
+python-multipart
+# Interface
+streamlit
+# Tests
+pytest
+httpx
